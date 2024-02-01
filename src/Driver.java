@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  */
 public class Driver{
-    private int Test;
+
     private Scanner input = new Scanner(System.in);
     private Store store;
 
